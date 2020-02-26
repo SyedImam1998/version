@@ -21,4 +21,7 @@ int main(){
             printf("\n");
             }
             
+            
+ printf(" run again to enter the number");           
+            
 }
