@@ -25,6 +25,7 @@ int main(){
  printf(" run again to enter the number"); 
  printf("hello from vs code"); 
  printf("again hello from vscode this y");  
- printf("hello fro brach qahirunnisa")      
+ printf("hello fro brach qahirunnisa") 
+ imama     
             
 }
